@@ -1,0 +1,17 @@
+model,hotspot_class,mae,rmse
+Persistence,ALL,5.46,11.0792
+Moving avg,ALL,4.9099,12.4006
+SARIMA,ALL,9.4551,46.8066
+Random Forest,ALL,4.6925,10.2982
+Persistence,Intermittent hotspot,12.5538,19.8599
+Moving avg,Intermittent hotspot,11.8339,18.4757
+SARIMA,Intermittent hotspot,22.0766,52.7708
+Random Forest,Intermittent hotspot,10.2062,15.7054
+Persistence,Non-hotspot,5.1493,8.0642
+Moving avg,Non-hotspot,4.5195,7.2128
+SARIMA,Non-hotspot,8.5828,25.615
+Random Forest,Non-hotspot,4.4101,7.0448
+Persistence,Persistent hotspot,78.1406,129.4602
+Moving avg,Persistent hotspot,102.1858,174.2345
+SARIMA,Persistent hotspot,235.3689,681.5221
+Random Forest,Persistent hotspot,73.5467,129.4042

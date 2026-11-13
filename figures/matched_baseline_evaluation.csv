@@ -1,0 +1,25 @@
+group,n_lsoas,mean_actual,model,mae,rmse
+All dense LSOAs,4706,14.73,Persistence (fixed origin),5.391,11.067
+All dense LSOAs,4706,14.73,Moving average (fixed origin),4.835,12.465
+All dense LSOAs,4706,14.73,SARIMA (fixed origin),9.57,47.721
+All dense LSOAs,4706,14.73,Random Forest (one-step),4.672,10.395
+All dense LSOAs,4706,14.73,Persistence (one-step),4.763,7.953
+All dense LSOAs,4706,14.73,Moving average (one-step),4.234,7.953
+Intermittent hotspot,32,54.97,Persistence (fixed origin),11.94,17.76
+Intermittent hotspot,32,54.97,Moving average (fixed origin),10.819,15.401
+Intermittent hotspot,32,54.97,SARIMA (fixed origin),26.183,62.468
+Intermittent hotspot,32,54.97,Random Forest (one-step),11.847,18.024
+Intermittent hotspot,32,54.97,Persistence (one-step),11.034,14.608
+Intermittent hotspot,32,54.97,Moving average (one-step),9.693,13.576
+Non-hotspot,4658,13.52,Persistence (fixed origin),5.096,8.001
+Non-hotspot,4658,13.52,Moving average (fixed origin),4.46,7.146
+Non-hotspot,4658,13.52,SARIMA (fixed origin),8.68,26.048
+Non-hotspot,4658,13.52,Random Forest (one-step),4.386,7.029
+Non-hotspot,4658,13.52,Persistence (one-step),4.59,6.794
+Non-hotspot,4658,13.52,Moving average (one-step),4.028,6.072
+Persistent hotspot,16,285.74,Persistence (fixed origin),78.141,129.46
+Persistent hotspot,16,285.74,Moving average (fixed origin),102.186,174.235
+Persistent hotspot,16,285.74,SARIMA (fixed origin),235.369,681.522
+Persistent hotspot,16,285.74,Random Forest (one-step),73.547,129.404
+Persistent hotspot,16,285.74,Persistence (one-step),42.656,68.845
+Persistent hotspot,16,285.74,Moving average (one-step),53.274,86.62

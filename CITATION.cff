@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "London crime hotspots: code and derived data"
+authors:
+  - family-names: Lambate
+    given-names: Zainuddin
+    affiliation: University of Greenwich
+  - family-names: Wang
+    given-names: Jia
+    affiliation: University of Greenwich
+version: 1.0.0
+date-released: 2026-11-14
+license: MIT
